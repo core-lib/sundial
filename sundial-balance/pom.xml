@@ -9,9 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>sundial-sharding</artifactId>
+    <artifactId>sundial-balance</artifactId>
     <packaging>jar</packaging>
-    <name>sundial-sharding</name>
+    <name>sundial-balance</name>
     <url>https://github.com/core-lib/sundial</url>
 
     <properties>

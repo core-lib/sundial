@@ -18,7 +18,7 @@
         <module>sundial-node</module>
         <module>sundial-executor</module>
         <module>sundial-repository</module>
-        <module>sundial-sharding</module>
+        <module>sundial-balance</module>
         <module>sundial-scheduler</module>
         <module>sundial-console</module>
     </modules>
@@ -87,7 +87,7 @@
             </dependency>
             <dependency>
                 <groupId>com.github.core-lib</groupId>
-                <artifactId>sundial-sharding</artifactId>
+                <artifactId>sundial-balance</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
